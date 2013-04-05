@@ -1,0 +1,337 @@
+!SESSION 2013-04-05 15:45:55.945 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.6.0_27
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:45.082
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:45.086
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:45.086
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:46.498
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:46.498
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:46.499
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:48.348
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:48.348
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:19:48.349
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:23:21.324
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertJars
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:23:21.325
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:23:26.182
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:23:26.182
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:23:26.183
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:26:18.204
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:26:18.205
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 16:26:18.205
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:06:47.529
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:06:50.473
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:07:02.578
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:07:03.767
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:07:09.525
+!MESSAGE Plug-in 'org.eclipse.pde.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.pde.ui.ConvertedProjectWizard
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:07:09.525
+!MESSAGE Plug-in 'org.eclipse.wst.jsdt.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.ui.projectConfigure' is invalid): org.eclipse.wst.jsdt.ui.internal.convertProjects
+
+!ENTRY org.eclipse.ui 4 4 2013-04-05 17:07:09.526
+!MESSAGE Plug-in 'org.eclipse.jpt.jpa.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.jpt.jpa.ui.menu.JpaTools' is invalid): org.eclipse.jpt.jpa.ui.generateEntities
+
+!ENTRY org.eclipse.jface 2 0 2013-04-05 17:26:30.767
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.767
+!MESSAGE A conflict occurred for CTRL+I:
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.indent,Correct Indentation,
+		Corrects the indentation of the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7bf63a08,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@8e89bed,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.767
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.format,Format,
+		Format the selected text,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@50bb5652,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.document,Format,
+		Format selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@78d5cfd6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.767
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_UP:
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@625c22cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2519a664,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@ef0b187,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Character,
+		Go to Matching Character,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@77bd9ca9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+/:
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.add.block.comment,Add Block Comment,
+		Enclose the selection with a block comment,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5c171dba,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2976b5b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.show.outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@50e433c3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@71a0cd91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.previous.member,Go to Previous Member,
+		Move the caret to the previous member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@741824de,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.previousSibling,Previous Sibling,
+		Go to Previous Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4fa64a63,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_DOWN:
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5d1ca65d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5ebd81bf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3ee536d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7497e90e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_RIGHT:
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@13a71b1f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3ef039cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+\:
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.remove.block.comment,Remove Block Comment,
+		Remove the block comment enclosing the selection,
+		Category(org.eclipse.jdt.ui.category.source,Source,Java Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3fe59a4d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@12c1685,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.goto.next.member,Go to Next Member,
+		Move the caret to the next member of the compilation unit,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7af55600,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.nextSibling,Next Sibling,
+		Go to Next Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@55aa7971,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:26:30.768
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_LEFT:
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@e15911,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.jdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4a9789ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2013-04-05 17:47:27.805
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2013-04-05 17:47:27.805
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3cf4fda8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.MakeHandlersGo@78393fdb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
